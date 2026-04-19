@@ -6,6 +6,15 @@ Station data is fetched from the public CityBikes API every 10 seconds and pushe
 
 ---
 
+## Screenshots
+
+![List view](screenshots/screenshot-list-view.png)
+![Map view](screenshots/screenshot-map-view.png)
+![Station detail](screenshots/screenshot-station-detail.png)
+![Focused marker](screenshots/screenshot-map-focused.png)
+
+---
+
 ## Features
 
 - **Live updates** — stations refresh automatically every 10 seconds via WebSockets
