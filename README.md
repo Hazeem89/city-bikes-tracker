@@ -8,9 +8,16 @@ Station data is fetched from the public CityBikes API every 10 seconds and pushe
 
 ## Screenshots
 
+**List View**
 ![List view](screenshots/screenshot-list-view.png)
+
+**Map View**
 ![Map view](screenshots/screenshot-map-view.png)
+
+**Station Detail**
 ![Station detail](screenshots/screenshot-station-detail.png)
+
+**Focused Marker**
 ![Focused marker](screenshots/screenshot-map-focused.png)
 
 ---
